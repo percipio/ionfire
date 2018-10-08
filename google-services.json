@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "373711026517",
+    "firebase_url": "https://ionfire-e1611.firebaseio.com",
+    "project_id": "ionfire-e1611",
+    "storage_bucket": "ionfire-e1611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373711026517:android:d5b816bfa3bbee33",
+        "android_client_info": {
+          "package_name": "com.percipiolabs.ionfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373711026517-ckg4abm55n0ddsu0o6k2cvbfuf6ht557.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD60nLaodYr6BdCiQMfIraAt1AqNoKIsqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
